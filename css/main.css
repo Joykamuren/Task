@@ -1,0 +1,12 @@
+body{
+	background-image: url('../image/wiser.jpeg');
+	background-repeat: no-repeat;
+	background-size: cover;
+	max-width: 100%;
+}
+
+p{
+	padding-top: 300px; 
+	font-size: 30px;
+	font-family: sans-serif;
+}
